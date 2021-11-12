@@ -2,7 +2,7 @@ The WavePortal is a website where anyone on the internet can send me a wave and 
 
 This is a Buildspace project
 
-Send me a wave here :
+Check it out at this link:
 
 https://waveportal-starter-project.trishateh.repl.co/
 
